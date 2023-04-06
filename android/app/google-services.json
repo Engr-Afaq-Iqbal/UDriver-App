@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "185918603910",
+    "project_id": "busbyu-926c1",
+    "storage_bucket": "busbyu-926c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185918603910:android:b37b2ff6bfe4da25b94707",
+        "android_client_info": {
+          "package_name": "com.techcubators.bus_by_u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185918603910-0epovajmt6ns3nem5r4r8o9urnqt5jhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9FQ2gbLbZmbLmP_zKuc2g7Me9l2Aqzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185918603910-0epovajmt6ns3nem5r4r8o9urnqt5jhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185918603910:android:e17155d5d338fe17b94707",
+        "android_client_info": {
+          "package_name": "com.techcubators.u_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185918603910-0epovajmt6ns3nem5r4r8o9urnqt5jhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9FQ2gbLbZmbLmP_zKuc2g7Me9l2Aqzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185918603910-0epovajmt6ns3nem5r4r8o9urnqt5jhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
